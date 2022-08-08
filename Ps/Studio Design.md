@@ -66,9 +66,9 @@
 
 **调色->修瑕疵->液化->磨皮->高低频**
 
-* 效果图
+### 效果图
 
-![8](D:\left\desk\noteImg\images\8.jpg)
+![8.jpg](https://s2.loli.net/2022/08/07/Pxe4oMUyv63nBGb.jpg)
 
 
 
@@ -122,8 +122,9 @@
 
 **调色->修瑕疵->液化->高低频磨皮->柔光打亮->牙齿去黄->裁4:3大图->在底板复制**
 
-* 效果图
-  * 一寸
+### 效果图
+
+* 一寸
 
 ![9.jpg](https://cdn.acwing.com/media/article/image/2022/08/06/137008_ca6fd85d15-9.jpg) 
 
@@ -170,3 +171,30 @@
 	整体磨皮力度的和谐统一
 ```
 
+* 儿童摄影发展
+
+![111.png](https://cdn.acwing.com/media/article/image/2022/08/07/137008_76a5de0415-111.png) 
+
+* 儿童摄影分类
+
+![1.png](https://cdn.acwing.com/media/article/image/2022/08/07/137008_0aeaf20c15-1.png) 
+
+* 儿童修饰要点
+
+![2.png](https://cdn.acwing.com/media/article/image/2022/08/07/137008_35cbf7ae15-2.png) 
+
+![3.png](https://cdn.acwing.com/media/article/image/2022/08/07/137008_53bde24c15-3.png) 
+
+![4.png](https://s2.loli.net/2022/08/07/hZFB72DnblWUH8j.png)
+
+### tips
+
+* 在camera row中 **全选** alt+s 可以把一个处理同步到全部图片
+
+
+
+### 效果图
+
+![10.jpg](https://s2.loli.net/2022/08/07/jk3Gr5NFnMpeWPX.jpg)
+
+![10-2.jpg](https://s2.loli.net/2022/08/07/qDiKYdj7TmOebgy.jpg)
