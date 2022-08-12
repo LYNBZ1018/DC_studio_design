@@ -226,3 +226,55 @@
 ### 效果图
 
 ![11.jpg](https://s2.loli.net/2022/08/10/EBUwectoN6JXldD.jpg)
+
+
+
+### 影楼修图基本流程
+
+预处理--修瑕疵--液化--磨皮--调色
+
+## ————调色模块————
+
+## 12_调色工具-上
+
+![6.png](https://s2.loli.net/2022/08/12/dMSEuUmOYWJivoC.png)
+
+#### 色相和饱和度工具
+
+* 色相调整 向相对位置滑动
+
+![7.png](https://s2.loli.net/2022/08/12/VhNtbewHxK4oQPB.png)
+
+![8.png](https://s2.loli.net/2022/08/12/9o5OarETu3S24Nv.png)
+
+* 降低饱和度 中间的的受影响最强 
+  * 两边的区域都和其他的颜色有一定的相交
+
+![9.png](https://s2.loli.net/2022/08/12/rzKXo1P5FwnVWDA.png)
+
+* 可以用+吸管或-吸管 进行颜色范围的缩小扩大
+
+![10.png](https://s2.loli.net/2022/08/12/uxt5W4VCsf7Qdvw.png)
+
+#### 饱和度和自然饱和度
+
+![11.png](https://s2.loli.net/2022/08/12/ZB8ti7oalKR2zcH.png)
+
+#### 色彩平衡
+
+* 保留明度 只会改变色彩不会改变明亮
+  * rgb三种颜色都增加了 明度会增加
+
+![12.png](https://s2.loli.net/2022/08/12/wbij8lkH2yBcNoD.png)
+
+* 利用色相环 支持色和互补色 从而达到各种效果
+
+![13.png](https://s2.loli.net/2022/08/12/gyJtEwBOxGVKMHR.png)
+
+![14.png](https://s2.loli.net/2022/08/12/TuMUDsrjFyEX354.png)
+
+![15.png](https://s2.loli.net/2022/08/12/JTpgb9rXYFnCBqK.png)
+
+#### 照片滤镜
+
+![16.png](https://s2.loli.net/2022/08/12/ovgai2zEFhYp9QJ.png)
