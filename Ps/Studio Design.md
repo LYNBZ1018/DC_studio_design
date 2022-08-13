@@ -278,3 +278,67 @@
 #### 照片滤镜
 
 ![16.png](https://s2.loli.net/2022/08/12/ovgai2zEFhYp9QJ.png)
+
+
+
+## 13_调色工具-下
+
+![17.png](https://s2.loli.net/2022/08/13/mc7lbkIjh4NfPsY.png)
+
+#### 可选颜色工具
+
+* 可选颜色主要作用
+
+![18.png](https://s2.loli.net/2022/08/13/yX5QpxDJ2UC7Tbi.png)
+
+* 可选颜色 和 色彩平衡 的区别
+
+![19.png](https://s2.loli.net/2022/08/13/APmzFgOQNekYHhf.png)
+
+* 相对 和 绝对
+
+![20.png](https://s2.loli.net/2022/08/13/ZwXmkINgSoKFRbi.png)
+
+* 色彩 白色 灰色 黑色 相当于 亮 中间调 阴影
+
+![21.png](https://s2.loli.net/2022/08/13/DIPHUy3Wqcs2v6h.png)
+
+* 饱和度 增加互补色 或者 降低支持色
+
+![22.png](https://s2.loli.net/2022/08/13/GNz3CBkXA58fPHx.png)
+
+* 色相 RGB叠加会变亮 CMY叠加会变暗
+
+![23.png](https://s2.loli.net/2022/08/13/C3WQBGIXbcnwldL.png)
+
+![24.png](https://s2.loli.net/2022/08/13/TP3KMvWXqUbdQVS.png)
+
+
+
+#### 曲线工具
+
+![25.png](https://s2.loli.net/2022/08/13/8XI6ymw9Gqozct5.png)
+
+* 曲线为什么称为调色之王
+
+![26.png](https://s2.loli.net/2022/08/13/EY3KVwGXAecoLSz.png)
+
+* 曲线的锚点
+
+![27.png](https://s2.loli.net/2022/08/13/8ujCt7B1eQafiUq.png)
+
+* 曲线的小工具
+
+![29.png](https://s2.loli.net/2022/08/13/V1DdIgUYoqF3POb.png)
+
+#### 颜色查找
+
+![30.png](https://s2.loli.net/2022/08/13/TUAoWEB9H65lIJf.png)
+
+* 批量暗转3D LUT
+
+![31.png](https://s2.loli.net/2022/08/13/vJ1HBRfihmKN4SV.png)
+
+#### 三色环
+
+![32.jpg](https://s2.loli.net/2022/08/13/SMFRkyJZxNG1HDw.jpg)
