@@ -342,3 +342,58 @@
 #### 三色环
 
 ![32.jpg](https://s2.loli.net/2022/08/13/SMFRkyJZxNG1HDw.jpg)
+
+
+
+## 14_韩式婚纱照
+
+```markdown
+韩式婚纱照特点总结
+
+背景
+整体画面“干净”，经典风格多选用纯色背景、扎染布。
+颜色多为中性色，或者明度低的咖啡色，褐色等。
+实景搭建简约素雅，色调偏中性。
+
+妆容
+自然精致，干净，透亮。
+发饰简约大方，整洁而优雅，体现新娘的含蓄美、气质美。
+
+服饰
+女士一般选用韩版婚纱，特点是垂感好，线条流畅。
+男士衣服为韩版修身西服，颜色以黑白灰为主。
+配饰多为头纱、花环、手捧花等。
+
+人物
+白皙，精致，性感，身材修长
+
+影调
+高调 中调 低调皆可：
+高调的纯粹，纯洁，干净。 中调的亲和，舒适，唯美
+低调的神秘，稳重
+
+色调
+色彩饱和度偏低，画面干净清澈
+```
+
+![32.png](https://s2.loli.net/2022/08/16/cs8OX14wVzIGrpZ.png)
+
+![33.png](https://s2.loli.net/2022/08/16/Kr3DilwMZfSqjJv.png)
+
+![34.png](https://s2.loli.net/2022/08/16/AivsFVnKEmTt5Ua.png)
+
+![35.png](https://s2.loli.net/2022/08/16/wmTNk5zqdShHQBj.png)
+
+![36.png](https://s2.loli.net/2022/08/16/iGUDoPuSCzWaRym.png)
+
+![37.png](https://s2.loli.net/2022/08/16/Q3paSdPFJVwCmrI.png)
+
+![38.png](https://s2.loli.net/2022/08/16/3Kq851sN9ayuirz.png)
+
+![39.png](https://s2.loli.net/2022/08/16/2xOGuD6ZMLjkUhH.png)
+
+![40.png](https://s2.loli.net/2022/08/16/ZTGfgMx7iVFoSEs.png)
+
+#### 效果图
+
+![14.jpg](https://s2.loli.net/2022/08/17/O2ptm3zVi5R7lHe.jpg)
