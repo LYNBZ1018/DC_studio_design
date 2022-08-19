@@ -1,3 +1,5 @@
+
+
 ## 8_面部结构修饰，头发修饰
 
 * **笔记**
@@ -397,3 +399,48 @@
 #### 效果图
 
 ![14.jpg](https://s2.loli.net/2022/08/17/O2ptm3zVi5R7lHe.jpg)
+
+
+
+## 15_胶片——日系清新
+
+![41](https://gitee.com/lynbz1018/image/raw/master/img/20220819124500.png)
+
+
+
+![image-20220819124430863](https://gitee.com/lynbz1018/image/raw/master/img/20220819124432.png)
+
+* 日系清新摄影师作品赏析
+
+![image-20220819125401055](https://gitee.com/lynbz1018/image/raw/master/img/20220819125402.png)
+
+* 照片可以有一点过曝
+
+![image-20220819130103583](https://gitee.com/lynbz1018/image/raw/master/img/20220819130104.png)
+
+![image-20220819130314156](https://gitee.com/lynbz1018/image/raw/master/img/20220819130315.png)
+
+
+
+![image-20220819185056016](https://gitee.com/lynbz1018/image/raw/master/img/20220819185058.png)
+
+
+
+![image-20220819190137810](https://gitee.com/lynbz1018/image/raw/master/img/20220819190139.png)
+
+* 日系清新风特点总结
+
+![image-20220819190410397](https://gitee.com/lynbz1018/image/raw/master/img/20220819190411.png)
+
+
+
+![image-20220819190436883](https://gitee.com/lynbz1018/image/raw/master/img/20220819190438.png)
+
+
+
+![image-20220819190737847](https://gitee.com/lynbz1018/image/raw/master/img/20220819190739.png)
+
+* 日系影调
+  * 左边脚上调一点给照片增加一点灰色的感觉 模仿复古胶片
+
+![image-20220819203218392](https://gitee.com/lynbz1018/image/raw/master/img/20220819203219.png)
