@@ -444,3 +444,51 @@
   * 左边脚上调一点给照片增加一点灰色的感觉 模仿复古胶片
 
 ![image-20220819203218392](https://gitee.com/lynbz1018/image/raw/master/img/20220819203219.png)
+
+#### 效果图
+
+![15](https://gitee.com/lynbz1018/image/raw/master/img/20220819215133.jpg)
+
+## 16_胶片——复古
+
+![image-20220820220652461](https://gitee.com/lynbz1018/image/raw/master/img/20220820220653.png)
+
+#### 传统的胶片摄影
+
+![image-20220820223147951](https://gitee.com/lynbz1018/image/raw/master/img/20220820223149.png)
+
+
+
+![image-20220820225134938](https://gitee.com/lynbz1018/image/raw/master/img/20220820225136.png)
+
+* 富士胶片特点
+
+![image-20220820225319502](https://gitee.com/lynbz1018/image/raw/master/img/20220820225320.png)
+
+
+
+* 柯达胶片特点
+
+![image-20220820225429099](https://gitee.com/lynbz1018/image/raw/master/img/20220820225430.png)
+
+* 胶片风格照片的获得方式
+
+![image-20220820225646194](https://gitee.com/lynbz1018/image/raw/master/img/20220820225647.png)
+
+![image-20220820225928850](https://gitee.com/lynbz1018/image/raw/master/img/20220820225930.png)
+
+#### 胶片复古风格照片
+
+![image-20220820230519899](https://gitee.com/lynbz1018/image/raw/master/img/20220820230521.png)
+
+* 复古胶片风格总结
+  * 颗粒感
+  * 柔焦
+
+![image-20220820230735483](https://gitee.com/lynbz1018/image/raw/master/img/20220820230736.png)
+
+![image-20220820231000245](https://gitee.com/lynbz1018/image/raw/master/img/20220820231001.png)
+
+#### 效果图
+
+![16](https://gitee.com/lynbz1018/image/raw/master/img/20220821154602.jpg)
